@@ -1,2 +1,2 @@
-# quartz
-Dotfiles Repository
+# quartz | Arch - Hyprland Config Files
+
